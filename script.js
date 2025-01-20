@@ -4,3 +4,6 @@ if (name.toLowerCase() === "patrick") {
 } else {
   alert("Hi " + name + "! Welcome!");
 }
+if (name.toLowerCase() === "patrick") {
+  document.getElementById("output").innerHTML = "I miss you Tuna🍥";
+}
