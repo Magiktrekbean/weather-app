@@ -1,7 +1,19 @@
+body {
+    background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+}
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     font-size: 35px;
+    color: #fdfdcb;
+    background-color: #ec729c;
+    border-radius: 25px;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    padding: 5px;
+
 }
 
 img {
@@ -13,4 +25,7 @@ footer {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-weight: bolder;
+    color: #fdfdcb;
+    background-color: #c54c82;
+
 }
