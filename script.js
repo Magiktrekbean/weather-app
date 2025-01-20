@@ -6,4 +6,6 @@ if (name.toLowerCase() === "patrick") {
 }
 if (name.toLowerCase() === "patrick") {
   document.getElementById("output").innerHTML = "I miss you Tuna🍥";
+} else {
+  document.getElementById("output").innerHTML = "Thanks" + name + "❣";
 }
