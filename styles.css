@@ -5,14 +5,14 @@ body {
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     color: #fdfdcb;
     background-color: #ec729c;
     border-radius: 25px;
     display: block;
     margin: 0 auto;
-    width: 300px;
-    padding: 5px;
+    width: 310px;
+    padding: 5px 10px;
 
 }
 
