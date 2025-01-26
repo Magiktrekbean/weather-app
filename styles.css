@@ -1,9 +1,11 @@
 body {
-    background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+    font-family: "Playwrite IN", serif;
+    font-optical-sizing: auto;
+
 }
 
 h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
     text-align: center;
     font-size: 30px;
     color: #fdfdcb;
@@ -22,7 +24,9 @@ img {
 }
 
 footer {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Inconsolata", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     text-align: center;
     font-weight: bolder;
     color: #fdfdcb;
